@@ -75,6 +75,7 @@ Ensure your environment is activated (`conda activate XLSR_Mamba`) and dependenc
 
 ## Test Log
 
-![image](https://github.com/user-attachments/assets/691950f3-5a1c-433f-abca-caf6d2997160)
+![image](https://github.com/user-attachments/assets/49c59d67-e22d-4bda-9a16-caf408772de1)
+
 
 
